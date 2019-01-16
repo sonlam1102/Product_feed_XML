@@ -29,4 +29,19 @@
             <g:inventory>3</g:inventory>
         </item>
     </channel>
+
+     <channel>
+        <item>
+            <g:id>TEST-GDQLM-SP-09</g:id>
+            <g:name>Giày cao gót, Sandal, Đế bằng</g:name>
+            <g:description>Quan kaki bf</g:description>
+            <g:image_link>https://etop.vn/upload/img/BQVa4y6dkkaBw0JCMHDq.jpg</g:image_link>   
+            <g:price>410000</g:price>
+            <g:shipping_weight_value>0.4</g:shipping_weight_value>
+            <g:shipping_weight_unit>kg</g:shipping_weight_unit>
+            <g:unit>cai</g:unit>
+            <g:gtin>TEST-GDQLM-SP-09</g:gtin>
+            <g:inventory>30</g:inventory>
+        </item>
+    </channel>
 </rss>
