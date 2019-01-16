@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<rss xmlns:g="http://base.google.com/ns/1.0" version="2.0">
+    <channel>
+        <item>
+            <g:id>P35JH</g:id>
+            <g:name>Áo thun </g:name>
+            <g:description>Ao thun lam tu vai cotton </g:description>
+            <g:image_link> </g:image_link>   
+            <g:price>50000</g:price>
+            <g:shipping_weight_value>5</g:shipping_weight_value>
+            <g:shipping_weight_unit>kg</g:shipping_weight_unit>
+            <g:unit>cai </g:unit>
+            <g:gtin>K88484HK</g:gtin>
+            <g:inventory>2</g:inventory>
+        </item>
+    </channel>
+    
+    <channel>
+        <item>
+            <g:id>P24AS</g:id>
+            <g:name>Quần kaki</g:name>
+            <g:description>Quan kaki bf</g:description>
+            <g:image_link>Product_image_link (optional)</g:image_link>   
+            <g:price>1000000</g:price>
+            <g:shipping_weight_value>0.4</g:shipping_weight_value>
+            <g:shipping_weight_unit>kg</g:shipping_weight_unit>
+            <g:unit>cai</g:unit>
+            <g:gtin>AW2453</g:gtin>
+            <g:inventory>3</g:inventory>
+        </item>
+    </channel>
+</rss>
