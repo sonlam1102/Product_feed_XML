@@ -30,7 +30,7 @@
         </item>
     </channel>
 
-     <channel>
+    <channel>
         <item>
             <g:id>TEST-GDQLM-SP-09</g:id>
             <g:name>Giày cao gót, Sandal, Đế bằng</g:name>
@@ -44,4 +44,66 @@
             <g:inventory>30</g:inventory>
         </item>
     </channel>
+
+    <channel>
+        <item>
+            <g:id>SSA8SS</g:id>
+            <g:name>Điện thoại Samsung Galaxy A8 Star</g:name>
+            <g:description>Điện thoại Samsung Galaxy A8 Star</g:description>
+            <g:image_link>https://images.samsung.com/is/image/samsung/vn-galaxy-a8star-g885-sm-g885fzkdxxv-frontblack-106045357?$PD_GALLERY_L_JPG$</g:image_link>   
+            <g:price>8990000</g:price>
+            <g:shipping_weight_value>0.4</g:shipping_weight_value>
+            <g:shipping_weight_unit>kg</g:shipping_weight_unit>
+            <g:unit>cai</g:unit>
+            <g:gtin>S4653636</g:gtin>
+            <g:inventory>30</g:inventory>
+        </item>
+    </channel>
+
+    <channel>
+        <item>
+            <g:id>SSA8SS083</g:id>
+            <g:name>Điện thoại Samsung Galaxy A9</g:name>
+            <g:description>Điện thoại Samsung Galaxy A9</g:description>
+            <g:image_link>https://images.samsung.com/is/image/samsung/vn-galaxy-a8star-g885-sm-g885fzkdxxv-frontblack-106045357?$PD_GALLERY_L_JPG$</g:image_link>   
+            <g:price>8990000</g:price>
+            <g:shipping_weight_value>0.4</g:shipping_weight_value>
+            <g:shipping_weight_unit>kg</g:shipping_weight_unit>
+            <g:unit>cai</g:unit>
+            <g:gtin>SS35346</g:gtin>
+            <g:inventory>30</g:inventory>
+        </item>
+    </channel>
+
+    <channel>
+        <item>
+            <g:id>SDDD2433323</g:id>
+            <g:name>Điện thoại BPHONE3</g:name>
+            <g:description>Điện thoại BP3</g:description>
+            <g:image_link>https://images.samsung.com/is/image/samsung/vn-galaxy-a8star-g885-sm-g885fzkdxxv-frontblack-106045357?$PD_GALLERY_L_JPG$</g:image_link>   
+            <g:price>8990000</g:price>
+            <g:shipping_weight_value>0.4</g:shipping_weight_value>
+            <g:shipping_weight_unit>kg</g:shipping_weight_unit>
+            <g:unit>cai</g:unit>
+            <g:gtin>SS35346</g:gtin>
+            <g:inventory>30</g:inventory>
+        </item>
+    </channel>
+
+    <channel>
+        <item>
+            <g:id>AFSAFA2325</g:id>
+            <g:name>Điện thoại BPhone 2</g:name>
+            <g:description>Điện thoại Samsung BP2</g:description>
+            <g:image_link>https://images.samsung.com/is/image/samsung/vn-galaxy-a8star-g885-sm-g885fzkdxxv-frontblack-106045357?$PD_GALLERY_L_JPG$</g:image_link>   
+            <g:price>8990000</g:price>
+            <g:shipping_weight_value>0.4</g:shipping_weight_value>
+            <g:shipping_weight_unit>kg</g:shipping_weight_unit>
+            <g:unit>cai</g:unit>
+            <g:gtin>SS35346</g:gtin>
+            <g:inventory>30</g:inventory>
+        </item>
+    </channel>
+
+   
 </rss>
